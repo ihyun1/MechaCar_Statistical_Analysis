@@ -33,13 +33,13 @@ In the table for all lots, our p value is greater than .05 and as a result we fa
 ### Per Lot
 
 Lot 1
-![t_test_lot1.png](Images/t_test_lot1.png)
+![t-test_lot1.png](Images/t-test_lot1.png)
 
 Lot 2
-![t_test_lot2.png](Images/t_test_lot2.png)
+![t-test_lot2.png](Images/t-test_lot2.png)
 
 Lot 3
-![t_test_lot3.png](Images/t_test_lot3.png)
+![t-test_lot3.png](Images/t-test_lot3.png)
 
 In the above tables, lot 1 and lot 2 have p values above .05, meaning that we fail to reject the null hypothesis that there is statistcal significance from the population mean of 1500. In lot 3, the p value is .04 and thus we can reject the null hypothesis and that there is statistical difference in lot 3's PSI from the population mean of 1500.
 
