@@ -26,7 +26,7 @@ In the table above showing the variance for each lot, it is clear that lot 1 and
 
 ### All lots
 
-![t_test_all_lots.png](Images/t_test_all_lots.png)
+![t-test_all_lots.png](Images/t-test_all_lots.png)
 
 In the table for all lots, our p value is greater than .05 and as a result we fail to reject the null hypothesis that there is a statistical difference from the population mean of 1500.
 
